@@ -36,6 +36,7 @@
 Weekly Chapters:
 
 1. Chapter One - Why we Program? (3 hours) </br> 
+-There are many reasons why we program. Some important and common reasons are: </br>
 2. Chapter Two: Variables and Expressions (3 hours) </br> 
 3. Chapter Three: Conditional Code (3 hours) </br> 
 4. Chapter Four: Functions (2 hours) </br>
