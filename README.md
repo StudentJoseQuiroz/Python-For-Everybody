@@ -56,8 +56,8 @@ Weekly Chapters:
 			- Repeated Steps 
 				- file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%206.04.24%20PM.png
 	- Something very useful that chapter one goes through as well are some reserved words that cannot be used as names for variables/identifiers
-			- file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%205.56.28%20PM.png
-	-  
+		- file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%205.56.28%20PM.png
+		
  - Chapter Two: Variables and Expressions (3 hours) </br> 
  - Chapter Three: Conditional Code (3 hours) </br> 
  - Chapter Four: Functions (2 hours) </br>
