@@ -45,8 +45,17 @@ Weekly Chapters:
 		- Main Memory: is a fast small temporary storage - lost on reboot- aka RAM
 		- Secondary Memory: is a slower large permanent storage - lasts until deleted - disk drive/memory stick
 		- Below is a screenshot of a basic outlook on these properties:
-		file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%205.09.30%20PM.png
-
+			- file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%205.09.30%20PM.png
+	- As the chapter continues on, different ways of installing Python 3 are demonstrated as well as how to take a screenshot of your work using "snipping tool" in windows and jEdit in macintosh
+	- Following through the chapter, we start practicing writing codes in Python
+		- Some basic patterns that we use are
+			- Sequential Steps
+				- file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%206.01.14%20PM.png
+			- Conditional Steps
+				- file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%206.03.22%20PM.png
+			- Repeated Steps 
+				- file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%206.04.24%20PM.png
+	- 
  - Chapter Two: Variables and Expressions (3 hours) </br> 
  - Chapter Three: Conditional Code (3 hours) </br> 
  - Chapter Four: Functions (2 hours) </br>
