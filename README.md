@@ -45,7 +45,7 @@ Weekly Chapters:
 		- Main Memory: is a fast small temporary storage - lost on reboot- aka RAM
 		- Secondary Memory: is a slower large permanent storage - lasts until deleted - disk drive/memory stick
 		- Below is a screenshot of a basic outlook on these properties:
-			![](file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%205.09.30%20PM.png)
+	file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%205.09.30%20PM.png
 
  - Chapter Two: Variables and Expressions (3 hours) </br> 
  - Chapter Three: Conditional Code (3 hours) </br> 
