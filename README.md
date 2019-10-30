@@ -59,6 +59,17 @@ Weekly Chapters:
 		- file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%205.56.28%20PM.png
 		
  - Chapter Two: Variables and Expressions (3 hours) </br> 
+	 - Chapter two is introduced with the concept of what constants, variables and assignment statements(consisted within the statement) are:
+		 - Constants are fixed values such as numbers, letters, and strings
+			 - they are called constants because they do not change
+		 - Variables are a named place in the memory where a programmer can store data and later retrieve the data using the variable "name"'
+		 - Assignment statements consist of an "expression" on the right-hand side and a variable to store the result
+			 - we assign a value to a variable using the assignment statement "="
+	- Some basic numeric expressions in Python are displayed in the image below:
+		- file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%207.02.32%20PM.png
+	- It is also very important to keep in mind that Python uses operating precedence rules, aka PEMDAS, when operating with numerical functions
+		- file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%209.01.07%20PM.png
+	- 
  - Chapter Three: Conditional Code (3 hours) </br> 
  - Chapter Four: Functions (2 hours) </br>
  - Chapter Five: Loops and Iteration (3 hours) </br> 
