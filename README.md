@@ -111,8 +111,20 @@ Weekly Chapters:
 	-In conclusion, a function is some bit of reusable code, we define a function using a def keyword, and then we call or invoke it. Some functions do not return values. We call them non-fruitful functions, and if they return values then we call them fruitful functions.
 	
  - Chapter Five: Loops and Iteration (3 hours) </br> 
- - 
+	 - Each time we execute the body of the loop, we call it an iteration.
+	 - We call the variable that changes each time the loop executes and controls when the loop finishes the iteration variable. If there is no iteration variable, the loop will repeat forever, resulting in an infinite loop.
+		 - Loop with iteration variable affected:
+			 - file:///Users/sweet/Desktop/Screen%20Shot%202019-11-20%20at%201.03.48%20PM.png
+		- Loop without iteration variable affected, resulting in an infinite loop:
+			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-20%20at%201.07.55%20PM.png
+		- You can break out of a loop with the executable statement "break"
+			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-20%20at%201.16.09%20PM.png
+		- Below are some tips for making a smart loop
+			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-20%20at%202.49.25%20PM.png
+	- In conclusion, in this chapter we focus on some definite loops, some indefinite loops, how to break to get out of loops, continue to pop back up. We continue works in for loops as well as while loops/iteration variables, how with "while" loops you construct them yourself and in "for" loops, "for" constructs them for you.
+
  - Chapter Six: Strings (3 hours) </br> 
+	 - For starters, 
  - Chapter Seven: Files (3 hours) </br> 
  - Chapter Eight: Lists (3 hours) </br>
  - Chapter Nine: Dictionaries (3 hours) </br>
