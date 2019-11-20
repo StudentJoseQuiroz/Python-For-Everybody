@@ -108,7 +108,7 @@ Weekly Chapters:
 			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-20%20at%2012.39.51%20PM.png
 		- string conversions:
 			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-20%20at%2012.40.31%20PM.png
-	-In conclusion, a function is some bit of reusable code, we define a function using a def keyword, and then we call or invoke it. Some functions do not return values. We call them non-fruitful functions, and if they return values then we call them fruitful functions.
+	- In conclusion, a function is some bit of reusable code, we define a function using a def keyword, and then we call or invoke it. Some functions do not return values. We call them non-fruitful functions, and if they return values then we call them fruitful functions.
 	
  - Chapter Five: Loops and Iteration (3 hours) </br> 
 	 - Each time we execute the body of the loop, we call it an iteration.
