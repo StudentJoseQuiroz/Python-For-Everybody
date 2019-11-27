@@ -230,5 +230,5 @@ Weekly Chapters:
 	 - I was also able to utilize my time and focus on bringing my integration program a bit more together by using information I obtained throughout both courses
 
  - Complete independent program (2 hours) </br> 
-	 - I utilized my time to complete my independent integration program and revise through my coding.
+	 - I utilized my time to complete my independent integration program and revise through my coding
 	 - I also had peers test and revise my program as well for better program efficiency and non-biased critique
