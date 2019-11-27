@@ -124,10 +124,111 @@ Weekly Chapters:
 	- In conclusion, in this chapter we focus on some definite loops, some indefinite loops, how to break to get out of loops, continue to pop back up. We continue works in for loops as well as while loops/iteration variables, how with "while" loops you construct them yourself and in "for" loops, "for" constructs them for you.
 
  - Chapter Six: Strings (3 hours) </br> 
-	 - For starters, 
+	 - For starters, Chapter 6 starts off with talking about strings and reading data from input. 
+		 - string: a sequence of characters
+		 - Images below show string data type and different input reading and converting
+		 - numbers must be converted from strings
+			 - file:///Users/sweet/Desktop/Screen%20Shot%202019-11-26%20at%2011.58.19%20PM.png
+			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%2012.02.27%20AM.png
+		- something to keep in mind is that you will get a python error if you attempt to index beyond the end of a string
+		- built-in function len gives length of a string 
+		- using a while statement and an iteration variable, and the len function we can construct a loop to look at each of the letters in a string individually
+		- Below is an image that shows looping through strings
+			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%2012.11.12%20AM.png
+	- Chapter 6 continues on towards a conclusion by showing how strings can be manipulated
+		- number manipulation is one kind of program and string manipulation is generally another thing that we do in programs
+		- when the "+" is applied to strings concatenation
+		- and below we see "in" used as a logical operator
+			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%2012.33.43%20AM.png
+
  - Chapter Seven: Files (3 hours) </br> 
+	 - Chapter 7 begins with talking about what we've been over so far through the course of python by showing us one of the first diagrams we started off with and going forward with the fact that it's time to look at some data
+		 - file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%201.14.11%20AM.png
+		 - A text file can be thought of as a sequence of lines
+			- when you want to read a file, we have to tell python which file to open
+			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%201.17.07%20AM.png
+		- Below is an example of using "open()"
+			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%201.22.52%20AM.png
+		- we also learn about the newline character "\n" that is one character, not two
+			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%201.23.36%20AM.png
+		- Moreover, after learning how to open files we will now learn how to read the file through a file handle
+			- a file handle to the for loop looks like a sequence of lines, it's a sequence of lines
+			- not the same as putting the string there, for loop is smart
+			- the for loop is going to run this code multiple times where the iteration variable, cheese in this case, is going to take on the successive lines, if this file has 10 lines, this loop is going to run 10 times. Cheese is going to be the first line, the second line, third line
+			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%201.38.54%20AM.png
+			- We then continue forward counting the lines in a file, by reading the file as a "whole" and then prompting for the file name:
+			- counting: file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%201.41.30%20AM.png
+			- reading: file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%201.41.42%20AM.png
+			- prompting: file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%201.46.56%20AM.png
+
  - Chapter Eight: Lists (3 hours) </br>
+	 - Chapter 8 is a brief chapter on lists
+		 - starts with the reminder that
+			 - algorithms are set of rules or steps used to solving problem
+			 - data structures are particular ways of organizing data in a computer
+		- lists are kind of a collection
+			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%201.54.48%20AM.png
+			- we use commas to separate them and brackets to start and end them
+			- some lists constants below
+			-  file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%201.56.09%20AM.png
+				- strings are immutable, we cannot change the contents of a string. we must make a new string to make any change
+				- lists are mutable we can change an element of a list using the index operator
+				- the len() function takes a list as a parameter and returns the number of elements in the list
+				- actually len() tells us the number of elements of any set or sequence (such as string...)
+		- We move onto manipulating lists:
+			- we can have splice lists with the ":" symbol:
+				- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%202.04.16%20AM.png
+			- we can build lists from scratch:
+				- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%202.06.12%20AM.png
+			- we can have built-in lists:
+				- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%202.05.56%20AM.png
+		- Then we end the chapter connecting lists and strings:
+			- split breaks a string into parts and produces a list of strings. 
+			- we think of these as words, we can access a particular word or loop to all of the words
+			- when you do not specify a delimiter, multiple spaces are treated like one delimiter
+			- you can specify what delimiter are character to use in the splitting
+		- Example of List Summary
+			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%202.06.12%20AM.png
+
  - Chapter Nine: Dictionaries (3 hours) </br>
+	 - For starters, dictionaries are our second data structure.
+		 - we briefly go over collections in the beginning of this chapter:
+			 - file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%202.20.51%20AM.png
+		- Dictionaries or Python's most powerful data collection
+		- Dictionaries allow us to do fast data base like operations in Python
+		- Dictionaries have different names in different languages
+		- For example:
+			- Associative arrays - Perl/PHP
+			- Properties or Map or HashMap - Java
+			- Property bag - C#/.Net
+		- Lists index their entries based on the position in the list
+		- Dictionaries are like bags - No order
+		- So we indexed the things we put it in the dictionary with a "lookup tag"
+		- Dictionaries are like lists except that they use keys instead of numbers to look up values
+		- One many common use of dictionaries discounting how often we "see" something
+		- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%202.35.46%20AM.png
+		- When we encounter a new name, we need to add a new entry in the dictionary and if this is a second or later time we have seen the name,'s we simply add one to the count in the dictionary under that name
+		- Below is the get method for dictionaries
+			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%202.38.23%20AM.png
+			- Even though dictionaries are not stored in order, we can write a for loop that goes through all the entries in a dictionary - actually go through all of the keys in the dictionary and looks up the values
+			- View of tuple in upcoming chapter
+				- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%202.42.48%20AM.png
+
  - Chapter Ten: Tuples (2 hours) </br>
+	 - Chapter 10 is a brief chapter on tuples
+		 - Tuples are another kind of sequence that functions much like list- they have elements which are indexed starting at zero
+		 - Unlike a list once you create a tuple, you cannot alter its contents, similar to string
+		 - We can also put it tuple on the left-hand side of an assignment statement, we can even omit the parentheses
+		 - Tuples are comparable
+			 - file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%203.01.04%20AM.png
+			 - We can take advantage of the ability to sort a list of tuples to get a sorted version of a dictionary, but first we sort the dictionary by the key using the items() method and sorted() function
+			 - sorted()
+				 - file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%203.04.15%20AM.png
+
  - Graduation and work on independent program (2 hours) </br>
+	 - Throughout this time I completed my graduation videos of my audited version of course 1 and 2 of Python for Everybody by Dr. Charles Russell Severance, my online instructor throughout both courses.
+	 - I was also able to utilize my time and focus on bringing my integration program a bit more together by using information I obtained throughout both courses
+
  - Complete independent program (2 hours) </br> 
+	 - I utilized my time to complete my independent integration program and revise through my coding.
+	 - I also had peers test and revise my program as well for better program efficiency and non-biased critique
