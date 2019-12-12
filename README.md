@@ -52,7 +52,7 @@ Weekly Chapters:
 			- Sequential Steps
 				- file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%206.01.14%20PM.png
 			- Conditional Steps
-				- file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%206.03.22%20PM.png
+				- ![pic54](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/54.png)
 			- Repeated Steps 
 				- file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%206.04.24%20PM.png
 	- Something very useful that chapter one goes through as well are some reserved words that cannot be used as names for variables/identifiers
