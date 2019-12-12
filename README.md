@@ -45,7 +45,7 @@ Weekly Chapters:
 		- Main Memory: is a fast small temporary storage - lost on reboot- aka RAM
 		- Secondary Memory: is a slower large permanent storage - lasts until deleted - disk drive/memory stick
 		- Below is a screenshot of a basic outlook on these properties:
-			- ![pic1](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/52.png)
+			- ![pic52](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/52.png)
 	- As the chapter continues on, different ways of installing Python 3 are demonstrated as well as how to take a screenshot of your work using "snipping tool" in windows and jEdit in macintosh
 	- Following through the chapter, we start practicing writing codes in Python
 		- Some basic patterns that we use are
@@ -56,7 +56,7 @@ Weekly Chapters:
 			- Repeated Steps 
 				- file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%206.04.24%20PM.png
 	- Something very useful that chapter one goes through as well are some reserved words that cannot be used as names for variables/identifiers
-		- file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%205.56.28%20PM.png
+		- ![pic53](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/53.png)
 		
  - Chapter Two: Variables and Expressions (3 hours) </br> 
 	 - Chapter 2 is introduced with the concept of what constants, variables and assignment statements(consisted within the statement) are:
