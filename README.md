@@ -114,7 +114,7 @@ Weekly Chapters:
 	 - Each time we execute the body of the loop, we call it an iteration.
 	 - We call the variable that changes each time the loop executes and controls when the loop finishes the iteration variable. If there is no iteration variable, the loop will repeat forever, resulting in an infinite loop.
 		- Loop with iteration variable affected:
-			 - ![pic72](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/72.png)
+			- ![pic72](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/72.png)
 		- Loop without iteration variable affected, resulting in an infinite loop:
 			- ![pic73](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/73.png)
 		- You can break out of a loop with the executable statement "break"
@@ -128,38 +128,38 @@ Weekly Chapters:
 		 - string: a sequence of characters
 		 - Images below show string data type and different input reading and converting
 		 - numbers must be converted from strings
-			 - file:///Users/sweet/Desktop/Screen%20Shot%202019-11-26%20at%2011.58.19%20PM.png
-			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%2012.02.27%20AM.png
+			- ![pic77](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/77.png)
+			- ![pic78](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/78.png)
 		- something to keep in mind is that you will get a python error if you attempt to index beyond the end of a string
 		- built-in function len gives length of a string 
 		- using a while statement and an iteration variable, and the len function we can construct a loop to look at each of the letters in a string individually
 		- Below is an image that shows looping through strings
-			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%2012.11.12%20AM.png
+			- ![pic79](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/79.png)
 	- Chapter 6 continues on towards a conclusion by showing how strings can be manipulated
 		- number manipulation is one kind of program and string manipulation is generally another thing that we do in programs
 		- when the "+" is applied to strings concatenation
 		- and below we see "in" used as a logical operator
-			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%2012.33.43%20AM.png
+			- ![pic80](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/80.png)
 
  - Chapter Seven: Files (3 hours) </br> 
 	 - Chapter 7 begins with talking about what we've been over so far through the course of python by showing us one of the first diagrams we started off with and going forward with the fact that it's time to look at some data
-		 - file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%201.14.11%20AM.png
+		 - ![pic81](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/81.png)
 		 - A text file can be thought of as a sequence of lines
 			- when you want to read a file, we have to tell python which file to open
-			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%201.17.07%20AM.png
+			- ![pic82](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/82.png)
 		- Below is an example of using "open()"
-			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%201.22.52%20AM.png
+			- ![pic83](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/83.png)
 		- we also learn about the newline character "\n" that is one character, not two
-			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%201.23.36%20AM.png
+			- ![pic84](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/84.png)
 		- Moreover, after learning how to open files we will now learn how to read the file through a file handle
 			- a file handle to the for loop looks like a sequence of lines, it's a sequence of lines
 			- not the same as putting the string there, for loop is smart
 			- the for loop is going to run this code multiple times where the iteration variable, cheese in this case, is going to take on the successive lines, if this file has 10 lines, this loop is going to run 10 times. Cheese is going to be the first line, the second line, third line
-			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%201.38.54%20AM.png
+			- ![pic85](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/85.png)
 			- We then continue forward counting the lines in a file, by reading the file as a "whole" and then prompting for the file name:
-			- counting: file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%201.41.30%20AM.png
-			- reading: file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%201.41.42%20AM.png
-			- prompting: file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%201.46.56%20AM.png
+			- counting: ![pic86](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/86.png)
+			- reading: ![pic87](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/87.png)
+			- prompting: ![pic88](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/88.png)
 
  - Chapter Eight: Lists (3 hours) </br>
 	 - Chapter 8 is a brief chapter on lists
@@ -167,10 +167,10 @@ Weekly Chapters:
 			 - algorithms are set of rules or steps used to solving problem
 			 - data structures are particular ways of organizing data in a computer
 		- lists are kind of a collection
-			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%201.54.48%20AM.png
+			- ![pic89](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/89.png)
 			- we use commas to separate them and brackets to start and end them
 			- some lists constants below
-			-  file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%201.56.09%20AM.png
+			-  ![pic90](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/90.png)
 				- strings are immutable, we cannot change the contents of a string. we must make a new string to make any change
 				- lists are mutable we can change an element of a list using the index operator
 				- the len() function takes a list as a parameter and returns the number of elements in the list
