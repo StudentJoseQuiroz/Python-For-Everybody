@@ -50,11 +50,11 @@ Weekly Chapters:
 	- Following through the chapter, we start practicing writing codes in Python
 		- Some basic patterns that we use are
 			- Sequential Steps
-				- file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%206.01.14%20PM.png
+				- ![pic55](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/55.png)
 			- Conditional Steps
 				- ![pic54](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/54.png)
 			- Repeated Steps 
-				- file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%206.04.24%20PM.png
+				- ![pic56](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/56.png)
 	- Something very useful that chapter one goes through as well are some reserved words that cannot be used as names for variables/identifiers
 		- ![pic53](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/53.png)
 		
@@ -66,27 +66,27 @@ Weekly Chapters:
 		 - Assignment statements consist of an "expression" on the right-hand side and a variable to store the result
 			 - we assign a value to a variable using the assignment statement "="
 	- Some basic numeric expressions in Python are displayed in the image below:
-		- file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%207.02.32%20PM.png
+		- ![pic57](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/57.png)
 	- It is also very important to keep in mind that Python uses operating precedence rules, aka PEMDAS, when operating with numerical functions
-		- file:///Users/sweet/Desktop/Screen%20Shot%202019-10-19%20at%209.01.07%20PM.png
+		- ![pic58](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/58.png)
 	- Overall, Chapter focuses on going over constants, variables, reserved words, type, mnemonic variable names, operators, operator precedence, type conversion and comments and then writing an entire program.
 	
  - Chapter Three: Conditional Code (3 hours) </br> 
 	 - In this chapter, we start off by focusing on condition statements/execution, where we start adding in more "intelligence" into the coding.
 	 - We get to go over the differences and areas of complexity between different decision ways of coding. Below are the different examples:
 		 - one-way decision:
-			 - file:///Users/sweet/Desktop/Screen%20Shot%202019-11-19%20at%2011.08.36%20AM.png
+			 - ![pic65](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/65.png)
 		 - two-way decision:
-			 - file:///Users/sweet/Desktop/Screen%20Shot%202019-11-19%20at%2010.26.45%20AM.png
+			 - ![pic61](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/61.png)
 		 -  nested decision:
-			 - file:///Users/sweet/Desktop/Screen%20Shot%202019-11-19%20at%2010.21.19%20AM.png
+			 - ![pic60](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/60.png)
 		 - multi-way decision:
 			 - part 1:
-				 - file:///Users/sweet/Desktop/Screen%20Shot%202019-11-19%20at%2010.32.34%20AM.png
+				 - ![pic62](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/62.png)
 			 - part 2 (another way to use multi-way decision coding, different variations, no else or numerous elifs & else):
-				 - file:///Users/sweet/Desktop/Screen%20Shot%202019-11-19%20at%2010.35.02%20AM.png
+				 - ![pic63](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/63.png)
 			 - try and except:
-				 - file:///Users/sweet/Desktop/Screen%20Shot%202019-11-19%20at%2011.03.12%20AM.png
+				 - ![pic64](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/64.png)
 	- Key coding methods to focus on in this chapter are;
 		- if/else: a conditional statement that runs a different set of statements depending on whether an expression is true or false
 		- if/elif/else: same as if/else except that after the if there are elif statements that stand for else if, meaning if the condition for "if" is false , it checks the condition of the next "elif" block and so on. If all the conditions are false, including the "elifs", then the body of "else" is executed
