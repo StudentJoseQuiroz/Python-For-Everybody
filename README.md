@@ -45,7 +45,7 @@ Weekly Chapters:
 		- Main Memory: is a fast small temporary storage - lost on reboot- aka RAM
 		- Secondary Memory: is a slower large permanent storage - lasts until deleted - disk drive/memory stick
 		- Below is a screenshot of a basic outlook on these properties:
-			- ![Alt text](52.jpg)
+			- ![Alt text](52.ping.jpg)
 	- As the chapter continues on, different ways of installing Python 3 are demonstrated as well as how to take a screenshot of your work using "snipping tool" in windows and jEdit in macintosh
 	- Following through the chapter, we start practicing writing codes in Python
 		- Some basic patterns that we use are
