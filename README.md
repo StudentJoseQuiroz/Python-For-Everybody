@@ -92,35 +92,35 @@ Weekly Chapters:
 		- if/elif/else: same as if/else except that after the if there are elif statements that stand for else if, meaning if the condition for "if" is false , it checks the condition of the next "elif" block and so on. If all the conditions are false, including the "elifs", then the body of "else" is executed
 		- try and except block: a try block lets you test a block of code for errors. The except block lets you handle the error. The final block lets you execute code, regardless of the result of the "try- and except" blocks.
 	- Another useful thing that chapter 3 goes over are some comparison operators to keep in mind when coding:
-		- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-19%20at%2011.10.36%20AM.png
+		- ![pic66](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/66.png)
 	- In conclusion, this chapter goes through and discusses one-way decisions with if, two-way decisions with if-then-else, nested decisions where you have an if inside of an if that moves on in, else-if, and then try and except to catch errors that you want to catch them.
 
  - Chapter Four: Functions (2 hours) </br>
 	 - In the start of this chapter, the fact about storing and reusing is addressed. Dr. Chuck goes over how programmers do not like to repeat themselves so they store and reuse these functions.
 		 - functions: reusable pieces of code
 			 - Below is an example displayed of assigning functions to a new keyword "def" that stands for start the definition of a function. To run a defined function, you must call it by writing the keyword of followed by "()"
-			 - file:///Users/sweet/Desktop/Screen%20Shot%202019-11-19%20at%2011.21.26%20AM.png
+			 - ![pic67](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/67.png)
 		- parameter: a variable which we use in the function definition. It is a "handle" that allows the code in the function to access the arguments for a particular function invocation.
 		- return values: often a function will take its arguments, do some computation, and return a value to be used as the value of the function call in the "calling expression" and the return keyword is used for this.
 		- max functions: a chunk of code that's been built into Python before, passing in an argument, which is a string. There is some code inside that runs through the argument, comes in and then it looks/reads through the information, and then sends us back the answer, which is this is called a return.
-			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-20%20at%2012.25.49%20PM.png
+			- ![pic68](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/68.png)
 		- type conversions:
-			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-20%20at%2012.39.51%20PM.png
+			- ![pic69](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/69.png)
 		- string conversions:
-			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-20%20at%2012.40.31%20PM.png
+			- ![pic70](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/70.png)
 	- In conclusion, a function is some bit of reusable code, we define a function using a def keyword, and then we call or invoke it. Some functions do not return values. We call them non-fruitful functions, and if they return values then we call them fruitful functions.
 	
  - Chapter Five: Loops and Iteration (3 hours) </br> 
 	 - Each time we execute the body of the loop, we call it an iteration.
 	 - We call the variable that changes each time the loop executes and controls when the loop finishes the iteration variable. If there is no iteration variable, the loop will repeat forever, resulting in an infinite loop.
-		 - Loop with iteration variable affected:
-			 - file:///Users/sweet/Desktop/Screen%20Shot%202019-11-20%20at%201.03.48%20PM.png
+		- Loop with iteration variable affected:
+			 - ![pic72](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/72.png)
 		- Loop without iteration variable affected, resulting in an infinite loop:
-			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-20%20at%201.07.55%20PM.png
+			- ![pic73](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/73.png)
 		- You can break out of a loop with the executable statement "break"
-			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-20%20at%201.16.09%20PM.png
+			- ![pic74](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/74.png)
 		- Below are some tips for making a smart loop
-			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-20%20at%202.49.25%20PM.png
+			- ![pic76](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/76.png)
 	- In conclusion, in this chapter we focus on some definite loops, some indefinite loops, how to break to get out of loops, continue to pop back up. We continue works in for loops as well as while loops/iteration variables, how with "while" loops you construct them yourself and in "for" loops, "for" constructs them for you.
 
  - Chapter Six: Strings (3 hours) </br> 
