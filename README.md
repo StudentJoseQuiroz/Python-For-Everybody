@@ -177,23 +177,23 @@ Weekly Chapters:
 				- actually len() tells us the number of elements of any set or sequence (such as string...)
 		- We move onto manipulating lists:
 			- we can have splice lists with the ":" symbol:
-				- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%202.04.16%20AM.png
+				- ![pic91](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/91.png)
 			- we can build lists from scratch:
-				- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%202.06.12%20AM.png
+				- ![pic93](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/93.png)
 			- we can have built-in lists:
-				- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%202.05.56%20AM.png
+				- ![pic92](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/92.png)
 		- Then we end the chapter connecting lists and strings:
 			- split breaks a string into parts and produces a list of strings. 
 			- we think of these as words, we can access a particular word or loop to all of the words
 			- when you do not specify a delimiter, multiple spaces are treated like one delimiter
 			- you can specify what delimiter are character to use in the splitting
 		- Example of List Summary
-			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%202.06.12%20AM.png
+			- ![pic94](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/94.png)
 
  - Chapter Nine: Dictionaries (3 hours) </br>
 	 - For starters, dictionaries are our second data structure.
 		 - we briefly go over collections in the beginning of this chapter:
-			 - file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%202.20.51%20AM.png
+			 - ![pic95](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/95.png)
 		- Dictionaries or Python's most powerful data collection
 		- Dictionaries allow us to do fast data base like operations in Python
 		- Dictionaries have different names in different languages
@@ -206,13 +206,13 @@ Weekly Chapters:
 		- So we indexed the things we put it in the dictionary with a "lookup tag"
 		- Dictionaries are like lists except that they use keys instead of numbers to look up values
 		- One many common use of dictionaries discounting how often we "see" something
-		- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%202.35.46%20AM.png
+		- ![pic96](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/96.png)
 		- When we encounter a new name, we need to add a new entry in the dictionary and if this is a second or later time we have seen the name,'s we simply add one to the count in the dictionary under that name
 		- Below is the get method for dictionaries
-			- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%202.38.23%20AM.png
+			- ![pic97](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/97.png)
 			- Even though dictionaries are not stored in order, we can write a for loop that goes through all the entries in a dictionary - actually go through all of the keys in the dictionary and looks up the values
 			- View of tuple in upcoming chapter
-				- file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%202.42.48%20AM.png
+				- ![pic98](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/98.png)
 
  - Chapter Ten: Tuples (2 hours) </br>
 	 - Chapter 10 is a brief chapter on tuples
@@ -220,10 +220,10 @@ Weekly Chapters:
 		 - Unlike a list once you create a tuple, you cannot alter its contents, similar to string
 		 - We can also put it tuple on the left-hand side of an assignment statement, we can even omit the parentheses
 		 - Tuples are comparable
-			 - file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%203.01.04%20AM.png
+			 - ![pic99](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/99.png)
 			 - We can take advantage of the ability to sort a list of tuples to get a sorted version of a dictionary, but first we sort the dictionary by the key using the items() method and sorted() function
 			 - sorted()
-				 - file:///Users/sweet/Desktop/Screen%20Shot%202019-11-27%20at%203.04.15%20AM.png
+				 - ![pic100](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/100.png)
 
  - Graduation and work on independent program (2 hours) </br>
 	 - Throughout this time I completed my graduation videos of my audited version of course 1 and 2 of Python for Everybody by Dr. Charles Russell Severance, my online instructor throughout both courses.
