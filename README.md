@@ -207,7 +207,7 @@ Weekly Chapters:
 		- Dictionaries are like lists except that they use keys instead of numbers to look up values
 		- One many common use of dictionaries discounting how often we "see" something
 		- ![pic96](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/96.png)
-		- When we encounter a new name, we need to add a new entry in the dictionary and if this is a second or later time we have seen the name,'s we simply add one to the count in the dictionary under that name
+		- When we encounter a new name, we need to add a new entry in the dictionary and if this is a second or later time we have seen the name('s) we simply add one to the count in the dictionary under that name
 		- Below is the get method for dictionaries
 			- ![pic97](https://raw.githubusercontent.com/StudentJoseQuiroz/Python-For-Everybody/master/97.png)
 			- Even though dictionaries are not stored in order, we can write a for loop that goes through all the entries in a dictionary - actually go through all of the keys in the dictionary and looks up the values
